@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "9J7KE36XUN.com.sap.ariba.mint.release",
+				"appID": "9J7KE36XUN.com.sap.ariba.mint",
 				"paths": [ "*"]
 			}
 		]
